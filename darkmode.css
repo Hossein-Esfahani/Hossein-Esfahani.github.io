@@ -1,0 +1,59 @@
+body.dark{
+
+    background:#121212;
+
+    color:#b1650e;
+
+}
+
+
+
+body.dark .navbar{
+
+    background:#1e1e1e;
+
+}
+
+
+
+body.dark .navbar a{
+
+    color:white;
+
+}
+
+
+
+body.dark .card{
+
+    background:#222222;
+
+    color:white;
+
+}
+
+
+
+body.dark .research{
+
+    background:#3d0202;
+
+}
+
+
+
+body.dark h1,
+body.dark h2,
+body.dark h3{
+
+    color:#66b3ff;
+
+}
+
+
+
+body.dark footer{
+
+    background:#6220b8;
+
+}
