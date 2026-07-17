@@ -123,3 +123,27 @@ body.dark .main-content p{
     color:#f0f0f0;
 
 }
+
+body.dark #visitor-map-section{
+
+    background:#121212;
+
+}
+
+body.dark #visitor-map-section h2{
+
+    color:#66b3ff;
+
+}
+
+body.dark #visitor-map-section p{
+
+    color:#cccccc;
+
+}
+
+body.dark footer{
+
+    background:#000;
+
+}

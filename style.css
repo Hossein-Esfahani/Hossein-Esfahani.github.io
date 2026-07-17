@@ -494,3 +494,100 @@ body.dark .btn.primary:hover{
 
 }
 
+/* ==========================================
+   Visitor Map Section
+========================================== */
+
+#visitor-map-section{
+
+    padding:80px 20px;
+
+    text-align:center;
+
+    background:#f8f9fb;
+
+}
+
+#visitor-map-section h2{
+
+    font-size:34px;
+
+    margin-bottom:15px;
+
+    color:#003366;
+
+}
+
+#visitor-map-section p{
+
+    color:#666;
+
+    margin-bottom:35px;
+
+}
+
+.visitor-map{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    margin:auto;
+
+}
+
+/* ==========================================
+   Footer
+========================================== */
+
+footer{
+
+    background:#111;
+
+    color:white;
+
+    text-align:center;
+
+    padding:30px;
+
+}
+
+/* =====================================
+   Resize Visitor Map
+===================================== */
+
+.visitor-map{
+
+    max-width:350px;
+
+    margin:0 auto;
+
+    overflow:hidden;
+
+}
+
+.visitor-map iframe{
+
+    width:350px !important;
+
+    max-width:100% !important;
+
+}
+
+@media(max-width:600px){
+
+    .visitor-map{
+
+        max-width:300px;
+
+    }
+
+    .visitor-map iframe{
+
+        width:300px !important;
+
+    }
+
+}
