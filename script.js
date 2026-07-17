@@ -84,35 +84,20 @@ reveals[i]
 // Dark Mode
 // ===============================
 
+const themeButton = document.getElementById("theme-toggle");
 
-const themeButton =
-document.querySelector("#theme-toggle");
+// Enable dark mode by default
+document.body.classList.add("dark");
+themeButton.innerHTML = "☀️";
 
+themeButton.addEventListener("click", () => {
 
+    document.body.classList.toggle("dark");
 
-themeButton.addEventListener(
-"click",
-()=>{
-
-
-document.body
-.classList.toggle("dark");
-
-
-
-if(document.body.classList.contains("dark"))
-{
-
-themeButton.innerHTML="☀️";
-
-}
-
-else{
-
-themeButton.innerHTML="🌙";
-
-}
-
-
+    if(document.body.classList.contains("dark")){
+        themeButton.innerHTML = "☀️";
+    }else{
+        themeButton.innerHTML = "🌙";
+    }
 
 });

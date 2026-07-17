@@ -57,3 +57,69 @@ body.dark footer{
     background:#6220b8;
 
 }
+
+/* =====================================
+   Sidebar Dark Mode
+===================================== */
+
+body.dark .sidebar{
+
+    background:#1b1b1b;
+
+    border-right:1px solid #333;
+
+}
+
+body.dark .profile-photo{
+
+    border:5px solid #66b3ff;
+
+}
+
+body.dark .sidebar h2{
+
+    color:white;
+
+}
+
+body.dark .position{
+
+    color:#cccccc;
+
+}
+
+body.dark .social-links a{
+
+    color:#e6e6e6;
+
+}
+
+body.dark .social-links a:hover{
+
+    color:#66b3ff;
+
+}
+
+body.dark .main-content{
+
+    background:#121212;
+
+}
+
+body.dark .main-content h1{
+
+    color:#66b3ff;
+
+}
+
+body.dark .main-content h3{
+
+    color:#dddddd;
+
+}
+
+body.dark .main-content p{
+
+    color:#f0f0f0;
+
+}
