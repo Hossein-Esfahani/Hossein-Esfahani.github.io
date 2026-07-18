@@ -46,7 +46,7 @@ body.dark h1,
 body.dark h2,
 body.dark h3{
 
-    color:#45ced6;
+    color:#79b1b4;
 
 }
 
@@ -132,7 +132,7 @@ body.dark #visitor-map-section{
 
 body.dark #visitor-map-section h2{
 
-    color:#66b3ff;
+    color:#81adda;
 
 }
 
@@ -145,5 +145,11 @@ body.dark #visitor-map-section p{
 body.dark footer{
 
     background:#000;
+
+}
+
+body.dark .degree{
+
+    color:#8db51f;
 
 }

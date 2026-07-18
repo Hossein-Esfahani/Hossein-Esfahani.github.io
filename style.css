@@ -251,7 +251,7 @@ html{
 
 .main-content h1{
 
-    font-size:54px;
+    font-size:44px;
 
     color:#003366;
 
@@ -589,5 +589,19 @@ footer{
         width:300px !important;
 
     }
+
+}
+
+.degree{
+
+    color:#92a825;
+
+    font-weight:700;
+
+}
+
+#about p{
+
+    color:#f3f7f8;
 
 }
