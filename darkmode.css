@@ -1,8 +1,8 @@
 body.dark{
 
-    background:#121212;
+    background:#212121;
 
-    color:#b1650e;
+    color:#9eaae6;
 
 }
 
@@ -10,7 +10,7 @@ body.dark{
 
 body.dark .navbar{
 
-    background:#1e1e1e;
+    background:#242222;
 
 }
 
@@ -26,7 +26,7 @@ body.dark .navbar a{
 
 body.dark .card{
 
-    background:#222222;
+    background:#0b0a0a;
 
     color:white;
 
@@ -46,7 +46,7 @@ body.dark h1,
 body.dark h2,
 body.dark h3{
 
-    color:#66b3ff;
+    color:#45ced6;
 
 }
 
@@ -66,7 +66,7 @@ body.dark .sidebar{
 
     background:#1b1b1b;
 
-    border-right:1px solid #333;
+    border-right:1px solid #9f4d4d;
 
 }
 
@@ -102,7 +102,7 @@ body.dark .social-links a:hover{
 
 body.dark .main-content{
 
-    background:#121212;
+    background:#201f1f;
 
 }
 
@@ -114,7 +114,7 @@ body.dark .main-content h1{
 
 body.dark .main-content h3{
 
-    color:#dddddd;
+    color:#809565;
 
 }
 
@@ -126,7 +126,7 @@ body.dark .main-content p{
 
 body.dark #visitor-map-section{
 
-    background:#121212;
+    background:#171515;
 
 }
 
@@ -138,7 +138,7 @@ body.dark #visitor-map-section h2{
 
 body.dark #visitor-map-section p{
 
-    color:#cccccc;
+    color:#d23636;
 
 }
 
