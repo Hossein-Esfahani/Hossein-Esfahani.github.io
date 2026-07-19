@@ -251,9 +251,17 @@ html{
 
 .main-content h1{
 
-    font-size:44px;
+    font-size:30px;
 
     color:#003366;
+
+    text-align:center;
+
+    text-shadow:3px 3px 8px rgba(125, 102, 102, 0.8);
+
+    text-shadow:3px 3px 8px rgba(139, 127, 127, 0.8);
+
+     margin:5px;
 
 }
 
@@ -603,5 +611,31 @@ footer{
 #about p{
 
     color:#f3f7f8;
+
+}
+
+/*==================================
+Hero Image
+==================================*/
+
+.hero-image{
+
+    width:100%;
+
+    margin-bottom:10px;
+
+    text-align:center;
+
+}
+
+.hero-image img{
+
+    width:60%;
+
+    max-width:1100px;
+
+    border-radius:15px;
+
+    box-shadow:0 8px 25px rgba(130, 37, 37, 0.35);
 
 }

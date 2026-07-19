@@ -60,3 +60,13 @@ body.dark #nav-menu{
 
 
 }
+
+@media (max-width:768px){
+
+    .hero-image img{
+
+        width:100%;
+
+    }
+
+}
