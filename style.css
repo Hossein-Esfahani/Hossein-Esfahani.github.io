@@ -630,11 +630,11 @@ Hero Image
 
 .hero-image img{
 
-    width:60%;
+    width:70%;
 
     max-width:1100px;
 
-    border-radius:15px;
+    border-radius:25px;
 
     box-shadow:0 8px 25px rgba(130, 37, 37, 0.35);
 
