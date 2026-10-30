@@ -70,3 +70,13 @@ body.dark #nav-menu{
     }
 
 }
+
+@media (max-width: 768px) {
+    .hero {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .sidebar .position-title {
+        font-size: 15px;
+    }
+}
