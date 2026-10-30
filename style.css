@@ -639,3 +639,10 @@ Hero Image
     box-shadow:0 8px 25px rgba(130, 37, 37, 0.35);
 
 }
+
+.position-title {
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 15px;
+    font-weight: 600;
+}
